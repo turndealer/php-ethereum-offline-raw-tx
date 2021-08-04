@@ -9,11 +9,6 @@
             "homepage": "https://github.com/kornrunner/php-ethereum-offline-tx"
         }
     ],
-    "require": {
-        "php": ">=7.3",
-        "kornrunner/keccak": "^1.0",
-        "web3p/rlp": "^0.3"
-    },
     "autoload": {
         "psr-4": {
             "kornrunner\\": "src"
